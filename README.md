@@ -1,8 +1,4 @@
-# Dead of Winter - Digital Edition
-
-<p align="center">
-  <img src="caminho-para-sua-imagem/logo.png" alt="Dead of Winter Logo" width="300"/>
-</p>
+# Dead of Winter
 
 ## Sobre o Projeto
 
